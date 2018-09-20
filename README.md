@@ -8,5 +8,8 @@ hw2.c implements additional features:
 - !! to execute previous command.
 - !n to execute nth previous command.
 
-To run:
+To compile:
 - On Linux, type in "gcc -o <outputfilename> <inputfilename.c>"
+
+To run:
+- Type in "./<outputfilename>"

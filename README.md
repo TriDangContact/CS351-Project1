@@ -12,4 +12,4 @@ To compile:
 - On Linux, type in "gcc -o <i>outputfilename inputfilename.c</i>"
 
 To run:
-- Type in "./outputfilename"
+- Type in "./<i>outputfilename</i>"

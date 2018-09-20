@@ -9,7 +9,7 @@ hw2.c implements additional features:
 - !n to execute nth previous command.
 
 To compile:
-- On Linux, type in "gcc -o <i>outputfilename inputfilename.c</i>"
+- On Linux, type in <code>gcc -o <i>outputfilename inputfilename.c</i></code>
 
 To run:
-- Type in "./<i>outputfilename</i>"
+- Type in <code>./<i>outputfilename</i></code>
